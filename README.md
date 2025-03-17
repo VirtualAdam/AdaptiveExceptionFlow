@@ -1,1 +1,1 @@
-# AdamptiveExceptionFlow
+# AdaptiveExceptionFlow
